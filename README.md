@@ -1,7 +1,7 @@
 # DashboardLayoutIcon
-
-Un componente de React que muestra un ícono de “Layout” con tres variaciones (Dashboard, Grid, Panel Left). Cambia de estado secuencialmente al hacer hover, animando cada rectángulo con un efecto de *fade-in* y *scale* diferido.
 ![Image](https://github.com/user-attachments/assets/028904cb-f02d-4f68-8726-3a54b431553e)
+Un componente de React que muestra un ícono de “Layout” con tres variaciones (Dashboard, Grid, Panel Left). Cambia de estado secuencialmente al hacer hover, animando cada rectángulo con un efecto de *fade-in* y *scale* diferido.
+
 ## Características
 
 - **3 estados**: 
